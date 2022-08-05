@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.button {
+  position: fixed;
+  top: 95%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+  padding: 12px 24px;
+  border-radius: 10px;
+}
+.button:hover {
+  background-color: #ff8800;
+}
+.Image:hover {
+  background-color: #ff8800;
+}
